@@ -1,0 +1,6 @@
+{
+  "name": "Study Sniper AI",
+  "description": "AI-powered learning platform with AI Tutor, Quiz Generator, Flashcards, Study Planner, Document QA, Notes, and Coding Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

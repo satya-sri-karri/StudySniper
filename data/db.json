@@ -1,0 +1,191 @@
+{
+  "users": [
+    {
+      "id": "usr_1784991255290_q6qtg",
+      "name": "Satya Sri Karri",
+      "email": "24b11ai172@adityauniversity.in",
+      "passwordHash": "$2b$10$YYQN/UUoyVoTUC/u0mY0POCPSzusiUt0xfYG5KPfSNxlvtVDseZ8q",
+      "streakDays": 1,
+      "lastActiveDate": "2026-07-25T14:54:15.290Z",
+      "createdAt": "2026-07-25T14:54:15.290Z"
+    }
+  ],
+  "chats": [
+    {
+      "id": "chat_1784991270697_nq2o4",
+      "userId": "usr_1784991255290_q6qtg",
+      "title": "Explain Quantum Entanglement in sim...",
+      "model": "gemini-2.5-flash",
+      "createdAt": "2026-07-25T14:54:30.697Z",
+      "updatedAt": "2026-07-25T14:55:13.590Z"
+    },
+    {
+      "id": "chat_1784991270741_yri6q",
+      "userId": "usr_1784991255290_q6qtg",
+      "title": "New AI Tutor Session",
+      "model": "gemini-2.5-flash",
+      "createdAt": "2026-07-25T14:54:30.741Z",
+      "updatedAt": "2026-07-25T14:54:30.741Z"
+    }
+  ],
+  "messages": [
+    {
+      "id": "msg_1784991270697_1",
+      "chatId": "chat_1784991270697_nq2o4",
+      "role": "model",
+      "content": "Hello! I am **Sniper AI**, your dedicated personal tutor. 🎯\n\nHow can I help you master your studies today? You can ask me to explain a difficult concept, summarize your notes, solve a step-by-step problem, or prepare practice questions!",
+      "timestamp": "2026-07-25T14:54:30.697Z"
+    },
+    {
+      "id": "msg_1784991270741_1",
+      "chatId": "chat_1784991270741_yri6q",
+      "role": "model",
+      "content": "Hello! I am **Sniper AI**, your dedicated personal tutor. 🎯\n\nHow can I help you master your studies today? You can ask me to explain a difficult concept, summarize your notes, solve a step-by-step problem, or prepare practice questions!",
+      "timestamp": "2026-07-25T14:54:30.741Z"
+    },
+    {
+      "id": "msg_1784991313590_u",
+      "chatId": "chat_1784991270697_nq2o4",
+      "role": "user",
+      "content": "Explain Quantum Entanglement in simple terms",
+      "timestamp": "2026-07-25T14:55:13.590Z"
+    },
+    {
+      "id": "msg_1784991313833_err",
+      "chatId": "chat_1784991270697_nq2o4",
+      "role": "model",
+      "content": "I am analyzing your query about \"Explain Quantum Entanglement in simple terms\". Let me break down the solution step by step with active key takeaways.",
+      "timestamp": "2026-07-25T14:55:13.833Z"
+    }
+  ],
+  "documents": [],
+  "notes": [],
+  "flashcards": [
+    {
+      "id": "fc_1784991336060_pnufl",
+      "userId": "usr_1784991255290_q6qtg",
+      "deckTitle": "world war II",
+      "front": "What is the definition of world war II?",
+      "back": "world war II is a core subject area focused on systematic principles, structure, and applications.",
+      "difficulty": "medium",
+      "repetitions": 3,
+      "interval": 1,
+      "easeFactor": 2,
+      "createdAt": "2026-07-25T14:55:36.060Z",
+      "lastReviewed": "2026-07-25T14:58:30.426Z"
+    },
+    {
+      "id": "fc_1784991336060_6kkd2",
+      "userId": "usr_1784991255290_q6qtg",
+      "deckTitle": "world war II",
+      "front": "Key Application of world war II",
+      "back": "Used to solve practical problems and model real-world domain dynamics effectively.",
+      "difficulty": "easy",
+      "repetitions": 2,
+      "interval": 1,
+      "easeFactor": 2.2,
+      "createdAt": "2026-07-25T14:55:36.060Z",
+      "lastReviewed": "2026-07-25T14:58:31.418Z"
+    },
+    {
+      "id": "fc_1784991404671_2tz1y",
+      "userId": "usr_1784991255290_q6qtg",
+      "deckTitle": "neurobiology",
+      "front": "What is the definition of neurobiology?",
+      "back": "neurobiology is a core subject area focused on systematic principles, structure, and applications.",
+      "difficulty": "medium",
+      "repetitions": 2,
+      "interval": 3,
+      "easeFactor": 2.4499999999999997,
+      "createdAt": "2026-07-25T14:56:44.671Z",
+      "lastReviewed": "2026-07-25T14:58:36.407Z"
+    },
+    {
+      "id": "fc_1784991404671_g9ysz",
+      "userId": "usr_1784991255290_q6qtg",
+      "deckTitle": "neurobiology",
+      "front": "Key Application of neurobiology",
+      "back": "Used to solve practical problems and model real-world domain dynamics effectively.",
+      "difficulty": "easy",
+      "repetitions": 1,
+      "interval": 2,
+      "easeFactor": 2.5,
+      "createdAt": "2026-07-25T14:56:44.671Z",
+      "lastReviewed": "2026-07-25T14:58:25.477Z"
+    },
+    {
+      "id": "fc_1784991758283_df4gi",
+      "userId": "usr_1784991255290_q6qtg",
+      "deckTitle": "water cycle",
+      "front": "What is the distinction between evaporation and transpiration, and how are they combined in hydrological accounting?",
+      "back": "Evaporation is the phase change of liquid water to vapor from open water, soil, and non-living surfaces. Transpiration is the movement of water through plant vascular systems and its vapor release via stomata. Together, they are quantified as evapotranspiration (ET), representing the total terrestrial water vapor flux to the atmosphere.",
+      "difficulty": "easy",
+      "repetitions": 0,
+      "interval": 1,
+      "easeFactor": 2.5,
+      "createdAt": "2026-07-25T15:02:38.283Z"
+    },
+    {
+      "id": "fc_1784991758283_9hi5y",
+      "userId": "usr_1784991255290_q6qtg",
+      "deckTitle": "water cycle",
+      "front": "What is the formula for calculating the average residence time (Tr) of a water molecule in a hydrological reservoir, and what do its variables represent?",
+      "back": "The formula is Tr = V / F, where Tr is the residence time, V is the total volume of water stored in the reservoir, and F is the steady-state flux rate (either total inflow or total outflow rate).",
+      "difficulty": "medium",
+      "repetitions": 0,
+      "interval": 1,
+      "easeFactor": 2.5,
+      "createdAt": "2026-07-25T15:02:38.283Z"
+    },
+    {
+      "id": "fc_1784991758283_nztwf",
+      "userId": "usr_1784991255290_q6qtg",
+      "deckTitle": "water cycle",
+      "front": "Under what specific condition does Hortonian overland flow (infiltration-excess overland flow) occur?",
+      "back": "Hortonian overland flow occurs when the rate of rainfall exceeds the soil's maximum infiltration capacity rate, forcing excess water to accumulate and flow over the land surface regardless of whether the deeper soil matrix is fully saturated.",
+      "difficulty": "hard",
+      "repetitions": 0,
+      "interval": 1,
+      "easeFactor": 2.5,
+      "createdAt": "2026-07-25T15:02:38.283Z"
+    },
+    {
+      "id": "fc_1784991758283_cghgp",
+      "userId": "usr_1784991255290_q6qtg",
+      "deckTitle": "water cycle",
+      "front": "How does the release of latent heat during cloud condensation affect atmospheric stability and air parcel movement?",
+      "back": "As water vapor condenses into liquid cloud droplets, it releases latent heat of condensation into the surrounding air parcel. This thermal energy warms the parcel, lowering its density relative to ambient air, increasing buoyancy, and driving further convective updrafts.",
+      "difficulty": "medium",
+      "repetitions": 0,
+      "interval": 1,
+      "easeFactor": 2.5,
+      "createdAt": "2026-07-25T15:02:38.283Z"
+    },
+    {
+      "id": "fc_1784991758283_hoz4z",
+      "userId": "usr_1784991255290_q6qtg",
+      "deckTitle": "water cycle",
+      "front": "What physical mechanism drives ice crystal growth in the Wegener-Bergeron-Findeisen precipitation process?",
+      "back": "The process is driven by the difference in saturation vapor pressure over liquid water versus ice at sub-zero temperatures. Because saturation vapor pressure is lower over ice than over supercooled liquid water, water vapor diffuses from evaporating water droplets onto growing ice crystals.",
+      "difficulty": "hard",
+      "repetitions": 0,
+      "interval": 1,
+      "easeFactor": 2.5,
+      "createdAt": "2026-07-25T15:02:38.283Z"
+    },
+    {
+      "id": "fc_1784991758283_hjgev",
+      "userId": "usr_1784991255290_q6qtg",
+      "deckTitle": "water cycle",
+      "front": "What are the names and directions of the two direct phase changes between solid ice and gaseous water vapor in the water cycle?",
+      "back": "Sublimation is the direct phase transition from solid ice or snow into water vapor without passing through a liquid phase. Deposition (or desublimation) is the direct phase transition from water vapor into solid ice (such as frost formation) without condensing into liquid first.",
+      "difficulty": "easy",
+      "repetitions": 0,
+      "interval": 1,
+      "easeFactor": 2.5,
+      "createdAt": "2026-07-25T15:02:38.283Z"
+    }
+  ],
+  "quizzes": [],
+  "studyPlans": []
+}
